@@ -1,5 +1,101 @@
 {
   "profile": {
-    "name": "Mohamad Alghish"
+    "name": "Mohamad Alghosh",
+    "position": "Software Developer | Devops Enginerring",
+    "bio": "I am a highly skilled and experienced Software Developer with 7+ years of experience. My expertise includes working with government projects as a Senior Developer, and 5 years of experience working in UAE. I am passionate about utilizing cutting-edge technologies such as Microservices, Kubernetes, Machine Learning and Automation systems to deliver innovative and effective solutions. I am dedicated to staying up-to-date with the latest industry trends and am always eager to learn new skills to drive success for my clients.",
+    "twitter": "https://twitter.com/AlghoshM",
+    "github": "https://github.com/MohamadAlghish93",
+    "linkedin": "https://www.linkedin.com/in/mohamad-alghish/",
+    "whatsapp": 971501636957,
+    "email": "Mohamadalghish1993@gmail.com",
+    "photo": "https://res.cloudinary.com/dzvip6v7f/image/upload/v1654345024/My%20image%20personal%20site/Mask_group_g31eg9.png",
+    "location": "Dubia - UAE",
+    "certificate": [
+      {
+        "index": "1",
+        "Name": "AWS Certified Developer - Associate",
+        "Link": "https://res.cloudinary.com/dzvip6v7f/image/upload/v1694364478/My%20image%20personal%20site/AWS/Screenshot_2023-09-10_at_8.47.40_PM_lrodbw.png"
+      },
+      {
+        "index": "2",
+        "Name": "Google Project Management",
+        "Link": "https://res.cloudinary.com/dzvip6v7f/image/upload/v1680204190/My%20image%20personal%20site/Google/Google_Project_Management_f8zkr4.png"
+      },
+      {
+        "index": "3",
+        "Name": "Microsoft Certified: DevOps Engineer Expert",
+        "Link": "https://res.cloudinary.com/dzvip6v7f/image/upload/v1659031472/My%20image%20personal%20site/Microsoft/Screen_Shot_2022-07-28_at_10.03.23_PM_geeo6e.png"
+      },
+      {
+        "index": "4",
+        "Name": "Microsoft Azure Developer Associate",
+        "Link": "https://res.cloudinary.com/dzvip6v7f/image/upload/v1663849666/My%20image%20personal%20site/Microsoft/Screen_Shot_2022-09-22_at_4.07.21_PM_kizoxi.png"
+      },
+      {
+        "index": "5",
+        "Name": "Google IT Support",
+        "Link": "https://res.cloudinary.com/dzvip6v7f/image/upload/v1659031321/My%20image%20personal%20site/Google/Coursera_97SURQNLELYW_v0nxae.png"
+      },
+      {
+        "index": "6",
+        "Name": "Google UX Design",
+        "Link": "https://res.cloudinary.com/dzvip6v7f/image/upload/v1659031197/My%20image%20personal%20site/Google/Coursera_UTWHYMJY5T9K_x0ye63.png"
+      },
+      {
+        "index": "7",
+        "Name": "Google IT Automation with Python",
+        "Link": "https://res.cloudinary.com/dzvip6v7f/image/upload/v1659030906/My%20image%20personal%20site/Google/Coursera_H5AVKGVSXW7Y_wq7nuf.png"
+      },
+      {
+        "index": "8",
+        "Name": "Parasoft DTP",
+        "Link": "https://res.cloudinary.com/dzvip6v7f/image/upload/v1675492477/My%20image%20personal%20site/Other/certification-DTP---User-Training-malghish_nvssoft.com_ghpuud.png"
+      },
+      {
+        "index": "9",
+        "Name": "Parasoft dotTest static analyzer",
+        "Link": "https://res.cloudinary.com/dzvip6v7f/image/upload/v1675492461/My%20image%20personal%20site/Other/certification-dotTEST---Static-Analysis-malghish_nvssoft.com_cltfib.png"
+      },
+      {
+        "index": "10",
+        "Name": "Data Analysis with Python",
+        "Link": "https://res.cloudinary.com/dzvip6v7f/image/upload/v1626812714/My%20image%20personal%20site/COGNITIVE/Data_Analysis_Python_ywkykw.jpg"
+      },
+      {
+        "index": "11",
+        "Name": "Beyond the Basics Istio and IBM Cloud Kubernetes Service",
+        "Link": "https://res.cloudinary.com/dzvip6v7f/image/upload/v1616821992/My%20image%20personal%20site/COGNITIVE/Beyond_the_Basics_Istio_and_IBM_Cloud_Kubernetes_Service_ewnlfh.png"
+      },
+      {
+        "index": "12",
+        "Name": "Getting started with Microservices with Istio and IBM Cloud Kubernetes Service",
+        "Link": "https://res.cloudinary.com/dzvip6v7f/image/upload/v1616821992/My%20image%20personal%20site/COGNITIVE/Getting_started_with_Microservices_with_Istio_and_IBM_Cloud_Kubernetes_Service_ryoikl.png"
+      },
+      {
+        "index": "13",
+        "Name": "Introduction to Containers, Kubernetes, and OpenShift",
+        "Link": "https://res.cloudinary.com/dzvip6v7f/image/upload/v1616821991/My%20image%20personal%20site/COGNITIVE/Introduction_to_Containers_Kubernetes_and_OpenShift_gqddf5.png"
+      },
+      {
+        "index": "14",
+        "Name": "Deep Learning with TensorFlow",
+        "Link": "https://res.cloudinary.com/dzvip6v7f/image/upload/v1616821991/My%20image%20personal%20site/COGNITIVE/Deep_Learning_with_TensorFlow_lm09up.png"
+      },
+      {
+        "index": "15",
+        "Name": "Python Library",
+        "Link": "https://res.cloudinary.com/dzvip6v7f/image/upload/v1616821993/My%20image%20personal%20site/Udemy/python-lib_dg0hcb.jpg"
+      },
+      {
+        "index": "16",
+        "Name": "Building Block-chain",
+        "Link": "https://res.cloudinary.com/dzvip6v7f/image/upload/v1616821993/My%20image%20personal%20site/Udemy/Building_Block-chain_xmcx0k.jpg"
+      },
+      {
+        "index": "17",
+        "Name": "End-to-End Machine Learning with TensorFlow on GCP",
+        "Link": "https://res.cloudinary.com/dzvip6v7f/image/upload/v1616821992/My%20image%20personal%20site/Other/End-to-End-Machine-Learnin-gwith-TensorFlow_mzslnr.png"
+      }
+    ]
   }
 }
