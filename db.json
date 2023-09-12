@@ -104,7 +104,7 @@
 			"link": "https://shfil.onrender.com",
 			"logo": " <lord-icon src='https://cdn.lordicon.com/qsacmnwj.json' trigger='loop' delay='2000'colors='outline:#121331,primary:#ffc738,secondary:#4bb3fd' style='width: 150px; height: 150px'> </lord-icon>",
 			"platform": " <span class='platform'> <strong class='icon web'>Web Application</strong> </span>",
-			"platformLeft": "<a target='_blank' class='icon-a' href='https://gitlab.com/mohamadalghish/oats'> <lord-icon src='https://cdn.lordicon.com/zhmwytag.json' trigger='loop' delay='2000' class='icon'style='width: 50px; height: 50px'> </lord-icon> </a>"
+			"platformLeft": "<span class='platform-left'><a target='_blank' class='icon-a' href='https://gitlab.com/mohamadalghish/oats'> <lord-icon src='https://cdn.lordicon.com/zhmwytag.json' trigger='loop' delay='2000' class='icon'style='width: 50px; height: 50px'> </lord-icon> </a></span>"
 		},
 		{
 			"name": "OTS System",
