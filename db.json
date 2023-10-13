@@ -122,7 +122,7 @@
 		},
 		{
 			"name": "Log Reader Tool",
-			"link": "https://www.dropbox.com/scl/fi/16x2xivwwb0xixumub2ue/LogAnalyzerV2.0.zip?rlkey=3k42f1lkf1qujyfle28oxydgm&dl=1",
+			"link": "https://www.dropbox.com/scl/fi/jlbnunof4vdg9qbv13bzi/LogAnalyzerV3.1.zip?rlkey=twz17uq8cptidrik7i27f8pgb&dl=1",
 			"logo": "<lord-icon src='https://cdn.lordicon.com/nnbhwnej.json' trigger='loop' delay='2000'colors='primary:#646e78' style='width:150px;height:150px'> </lord-icon>",
 			"platform": "<span class='platform android'> <lord-icon src='https://cdn.lordicon.com/meqqbzid.json' trigger='loop' delay='2000'colors='outline:#121331,primary:#4bb3fd' style='width:50px;height:50px'> </lord-icon> </span>",
 			"platformLeft": null
