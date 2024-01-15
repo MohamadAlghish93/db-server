@@ -140,7 +140,14 @@
 			"logo": "<lord-icon src='https://cdn.lordicon.com/ttioogfl.json' trigger='loop' delay='2000'colors='primary:#121331,secondary:#ebe6ef,tertiary:#4bb3fd,quaternary:#92140c,quinary:#f9c9c0'style='width:150px;height:150px'> </lord-icon>",
 			"platform": null,
 			"platformLeft": " <span class='platform-left'> <a target='_blank' class='icon-a' href='./notebook/index.html'> <lord-icon src='https://cdn.lordicon.com/osbjlbsb.json' trigger='loop' delay='2000' class='icon'colors='outline:#121331,secondary:#b26836,secondary2:#4bb3fd,quaternary:#ebe6ef'style='width:50px;height:50px'> </a> </span>"
-		}
+		},
+    {
+      "name": "Security Scanner",
+      "link": "https://smrtscny.onrender.com",
+      "logo": "<lord-icon src='https://cdn.lordicon.com/agxojmun.json'trigger='loop'delay='2000'style='width:150px;height:150px'> </lord-icon>",
+      "platform": " <span class='platform'> <strong class='icon web'>Web Application</strong> </span>",
+      "platformLeft": null
+    }
 	]
   }
 }
