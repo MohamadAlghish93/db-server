@@ -103,56 +103,56 @@
         "link": "https://shfil.onrender.com",
         "logo": " <lord-icon src='https://cdn.lordicon.com/qsacmnwj.json' trigger='loop' delay='2000'colors='outline:#121331,primary:#ffc738,secondary:#4bb3fd' style='width: 150px; height: 150px'> </lord-icon>",
         "platform": " <span class='platform'> <strong class='icon web'>Web Application</strong> </span>",
-        "platformLeft": "<span class='platform-left'><a target='_blank' class='icon-a' href='https://github.com/MohamadAlghish93/ShFi'> <lord-icon src='https://cdn.lordicon.com/zhmwytag.json' trigger='loop' delay='2000' class='icon'style='width: 50px; height: 50px'> </lord-icon> </a></span>"
+        "platformLeft": ""
       },
       {
         "name": "OTS System",
         "link": "https://oneats.onrender.com/",
         "logo": " <lord-icon src='https://cdn.lordicon.com/ejnrjovh.json' trigger='loop' delay='2000'colors='outline:#121331,primary:#3a3347,secondary:#ebe6ef' stroke='85'style='width: 150px; height: 150px'> </lord-icon>",
         "platform": " <span class='platform'> <strong class='icon web'>Web Application</strong> </span>",
-        "platformLeft": "<span class='platform-left'><a target='_blank' class='icon-a' href='https://gitlab.com/mohamadalghish/oats'> <lord-icon src='https://cdn.lordicon.com/zhmwytag.json' trigger='loop' delay='2000' class='icon'style='width: 50px; height: 50px'> </lord-icon> </a></span>"
+        "platformLeft": ""
       },
       {
         "name": "Resize Transparency Images",
         "link": "https://prtui.onrender.com/",
         "logo": " <lord-icon src='https://cdn.lordicon.com/kgyyczfx.json' trigger='loop' delay='2000'colors='primary:#f24c00,secondary:#2ca58d,tertiary:#ebe6ef' style='width: 150px; height: 150px'> </lord-icon>",
         "platform": " <span class='platform'> <strong class='icon web'>Web Application</strong> </span>",
-        "platformLeft": "<span class='platform-left'> <a target='_blank' class='icon-a'href='https://github.com/MohamadAlghish93/pillow-resize-transparency-ui/tree/v1.0.0'> <lord-icon src='https://cdn.lordicon.com/zhmwytag.json' trigger='loop' delay='2000' class='icon'style='width: 50px; height: 50px'> </lord-icon> </a> </span>"
+        "platformLeft": ""
       },
       {
         "name": "Log Reader Tool",
         "link": "https://www.dropbox.com/scl/fi/jlbnunof4vdg9qbv13bzi/LogAnalyzerV3.1.zip?rlkey=twz17uq8cptidrik7i27f8pgb&dl=1",
         "logo": "<lord-icon src='https://cdn.lordicon.com/nnbhwnej.json' trigger='loop' delay='2000'colors='primary:#646e78' style='width:150px;height:150px'> </lord-icon>",
         "platform": "<span class='platform android'> <lord-icon src='https://cdn.lordicon.com/meqqbzid.json' trigger='loop' delay='2000'colors='outline:#121331,primary:#4bb3fd' style='width:50px;height:50px'> </lord-icon> </span>",
-        "platformLeft": null
+        "platformLeft": ""
       },
       {
         "name": "Powershell Script",
         "link": "https://github.com/MohamadAlghish93/powershell-monitor-scripts/archive/refs/heads/main.zip",
         "logo": " <lord-icon src='https://cdn.lordicon.com/zjscbpdr.json' trigger='loop' delay='2000'colors='primary:#121331,secondary:#3a3347,tertiary:#08a88a,quaternary:#ebe6ef'style='width:150px;height:150px'> </lord-icon>",
-        "platform": null,
-        "platformLeft": "<span class='platform-left'> <a target='_blank' class='icon-a' href='https://github.com/MohamadAlghish93/powershell-monitor-scripts'> <lord-icon src='https://cdn.lordicon.com/zhmwytag.json' trigger='loop' delay='2000' class='icon'style='width: 50px; height: 50px'> </lord-icon> </a> </span>"
+        "platform": "",
+        "platformLeft": ""
       },
       {
         "name": "My notebook",
         "link": "./notebook/index.html",
         "logo": "<lord-icon src='https://cdn.lordicon.com/ttioogfl.json' trigger='loop' delay='2000'colors='primary:#121331,secondary:#ebe6ef,tertiary:#4bb3fd,quaternary:#92140c,quinary:#f9c9c0'style='width:150px;height:150px'> </lord-icon>",
-        "platform": null,
-        "platformLeft": " <span class='platform-left'> <a target='_blank' class='icon-a' href='./notebook/index.html'> <lord-icon src='https://cdn.lordicon.com/osbjlbsb.json' trigger='loop' delay='2000' class='icon'colors='outline:#121331,secondary:#b26836,secondary2:#4bb3fd,quaternary:#ebe6ef'style='width:50px;height:50px'> </a> </span>"
+        "platform": "",
+        "platformLeft": ""
       },
       {
         "name": "Security Scanner",
         "link": "https://smrtscny.onrender.com",
         "logo": "<lord-icon src='https://cdn.lordicon.com/agxojmun.json'trigger='loop'delay='2000'style='width:150px;height:150px'> </lord-icon>",
         "platform": " <span class='platform'> <strong class='icon web'>Web Application</strong> </span>",
-        "platformLeft": null
+        "platformLeft": ""
       },
       {
         "name": "Monitor System",
         "link": "https://monitorsite.onrender.com/admin",
         "logo": "<lord-icon src='https://cdn.lordicon.com/axpfmqyc.json' trigger='loop' delay='2000' state='loop-cycle' colors='primary:#ebe6ef,secondary:#7166ee' style='width:150px;height:150px'> </lord-icon>",
         "platform": " <span class='platform'> <strong class='icon web'>Web Application</strong> </span>",
-        "platformLeft": null
+        "platformLeft": ""
       },
       {
         "name": "Share App File",
